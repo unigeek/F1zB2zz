@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/mark/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.18.1/aaa02680dd92a568a4278bb40aa4a6305f632ec0/assertj-core-3.18.1.jar",
+        "/home/mark/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/b25f3815c4c1860a73041e733a14a0379d00c4d5/junit-jupiter-api-5.7.0.jar"
+    ]
+}
